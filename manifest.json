@@ -6,8 +6,8 @@
     "version": "latest"
   },
   "server": {
-    "host": "localhost",
-    "port": 25565
+    "host": "59.20.85.119",
+    "port": 900
   },
   "files": [
     {
