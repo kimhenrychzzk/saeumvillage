@@ -1,0 +1,59 @@
+{
+  "version": "1.0.1",
+  "minecraftVersion": "1.21.11",
+  "modLoader": {
+    "type": "fabric",
+    "version": "latest"
+  },
+  "server": {
+    "host": "localhost",
+    "port": 25565
+  },
+  "files": [
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "sha1": "86515de45fe960bd717deea0954055106e857b81"
+    },
+    {
+      "path": "mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "sha1": "fb87711a8252c4b54908c589e3c13b00a767808e"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "sha1": "1d26dbb21dd4f17adbdb54f077334634f708a3d4"
+    },
+    {
+      "path": "mods/fabric-api-0.141.3+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/fabric-api-0.141.3+1.21.11.jar",
+      "sha1": "50de67eb221f0b38216da8668b09ca311327040e"
+    },
+    {
+      "path": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/iris-fabric-1.10.7+mc1.21.11.jar",
+      "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c"
+    },
+    {
+      "path": "mods/journeymap-fabric-1.21.11-6.0.0-beta.65.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/journeymap-fabric-1.21.11-6.0.0-beta.65.jar",
+      "sha1": "6f9de1c97c4b286f94f5dc827aa3bd787103ca22"
+    },
+    {
+      "path": "mods/punchy-2.5.8-fabric-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/punchy-2.5.8-fabric-1.21.11.jar",
+      "sha1": "37ff3f819561011419fdfb47b7c27f38fb5d4629"
+    },
+    {
+      "path": "mods/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+      "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.7+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/sodium-fabric-0.8.7+mc1.21.11.jar",
+      "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69"
+    }
+  ]
+}
