@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minecraftVersion": "1.21.11",
   "modLoader": {
     "type": "fabric",
@@ -61,34 +61,10 @@
       "sha1": "5a021081f0178ed91dd911194071465ab0a4348b"
     },
     {
-      "path": "resourcepacks/BabyAnimalBackportV2.0.zip",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks/BabyAnimalBackportV2.0.zip",
-      "sha1": "a6297d1376ac9dbbc5113304c5bbb81781bf46d4"
-    },
-    {
-      "path": "resourcepacks/Drigo_3D_Lanterns_x_Punchy.zip",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks/Drigo_3D_Lanterns_x_Punchy.zip",
-      "sha1": "9bbd2298659e1edebac16ee9cec6d6b9c28955cd"
-    },
-    {
-      "path": "resourcepacks/FA_All_Extensions-v1.8.1.zip",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks/FA_All_Extensions-v1.8.1.zip",
-      "sha1": "d39eefcb1d3a24debc979bbf7aa3e42b92cc5a80"
-    },
-    {
-      "path": "resourcepacks/FA_Player-v1.1.zip",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks/FA_Player-v1.1.zip",
-      "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a"
-    },
-    {
-      "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks/FreshAnimations_v1.10.4.zip",
-      "sha1": "73db740a6868e043c5e615c036fca2c912615b6e"
-    },
-    {
-      "path": "resourcepacks/Refined_Buckets_2.4.1.zip",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks/Refined_Buckets_2.4.1.zip",
-      "sha1": "8c7f840b603430e5d33e0263f416a07142651270"
+      "path": "resourcepacks",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks.zip",
+      "sha1": "af8b44345a6ce93d7f7f6a08f8bdb713c9958220",
+      "extract": true
     }
   ]
 }
