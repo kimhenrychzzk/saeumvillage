@@ -4,11 +4,12 @@
   "modLoader": {
     "type": "fabric",
     "version": "latest"
-  },
+{
   "server": {
     "host": "saeumvillage.mcv.kr",
-
-  },
+    "port": 900
+  }
+}
   "files": [
     {
       "path": "mods/MouseTweaks-fabric-mc1.21.11-2.30.jar",
