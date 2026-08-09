@@ -16,6 +16,16 @@
       "sha1": "86515de45fe960bd717deea0954055106e857b81"
     },
     {
+      "path": "mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "sha1": "fb87711a8252c4b54908c589e3c13b00a767808e"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "sha1": "1d26dbb21dd4f17adbdb54f077334634f708a3d4"
+    },
+    {
       "path": "mods/fabric-api-0.141.3+1.21.11.jar",
       "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/fabric-api-0.141.3+1.21.11.jar",
       "sha1": "50de67eb221f0b38216da8668b09ca311327040e"
