@@ -55,6 +55,16 @@
       "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/resourcepacks.zip",
       "sha1": "af8b44345a6ce93d7f7f6a08f8bdb713c9958220",
       "extract": true
+    },
+    {
+      "path": "mods/DP-Paint-Mod-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DP-Paint-Mod-1.0.0.jar",
+      "sha1": "2fbc85b28c5246c8e77dcb5ab079e3b0f12ca6c8"
+    },
+    {
+      "path": "mods/DP-Screen-Mod-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DP-Screen-Mod-1.0.0.jar",
+      "sha1": "b63801ff152b7f116f0a1481f1be0354fe3eb588"
     }
   ]
 }
