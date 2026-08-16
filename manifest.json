@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "minecraftVersion": "1.21.11",
   "modLoader": {
     "type": "fabric",
@@ -46,19 +46,19 @@
       "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69"
     },
     {
-      "path": "mods/DPPaint1.0.0S.jar",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPPaint1.0.0.jar",
-      "sha1": "2fbc85b28c5246c8e77dcb5ab079e3b0f12ca6c8"
+      "path": "mods/DPPaintMod1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPPaintMod1.0.0.jar",
+      "sha1": "ea24e91ab7c3d61819e52305dd1e8d4ddf2b2705"
     },
     {
-      "path": "mods/DPScreen1.0.0S.jar",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPScreen1.0.0.jar",
-      "sha1": "b63801ff152b7f116f0a1481f1be0354fe3eb588"
+      "path": "mods/DPScreenMod1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPScreenMod1.0.0.jar",
+      "sha1": "e5562833bcf7fa9ca459b54f826218bd5d91789b"
     },
     {
-      "path": "mods/DPCustomItem1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPCustomItem1.0.0.jar",
-      "sha1": "42b1d4bc97ebbb0c8e4a5e5ba7bac38c2d077529"
+      "path": "mods/DPCustomItemClient1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPCustomItemClient1.0.0.jar",
+      "sha1": "6c93adfff2199e5e35238ec56ce5a48cfeba2901"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
