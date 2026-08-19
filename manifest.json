@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "minecraftVersion": "1.21.11",
   "modLoader": {
     "type": "fabric",
@@ -56,9 +56,9 @@
       "sha1": "e5562833bcf7fa9ca459b54f826218bd5d91789b"
     },
     {
-      "path": "mods/DPCustomItemClient1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DPCustomItemClient1.0.0.jar",
-      "sha1": "6c93adfff2199e5e35238ec56ce5a48cfeba2901"
+      "path": "mods/DP-CustomItem-Client-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/kimhenrychzzk/saeumvillage/main/mods/DP-CustomItem-Client-1.0.0.jar",
+      "sha1": "ae158f1acdad87811d7c98ba2c64da374fc1bdc3"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
